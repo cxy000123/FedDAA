@@ -1,0 +1,4 @@
+DAAN Repro CJK is a renamed subset of Noto Sans SC at weight 400.
+Source: https://github.com/google/fonts/tree/main/ofl/notosanssc
+Source font SHA-256: a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da
+See OFL.txt.

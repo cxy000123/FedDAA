@@ -1,0 +1,75 @@
+{
+  "models": [
+    {
+      "model": "daan",
+      "slot_width": 24,
+      "attention_heads": 4,
+      "slot_radius": 1
+    }
+  ],
+  "runs": [
+    {
+      "id": "daan/non_dp/seed_0",
+      "model": "daan",
+      "mode": "non_dp",
+      "epsilon": null,
+      "seed": 0
+    },
+    {
+      "id": "daan/non_dp/seed_1",
+      "model": "daan",
+      "mode": "non_dp",
+      "epsilon": null,
+      "seed": 1
+    },
+    {
+      "id": "daan/non_dp/seed_2",
+      "model": "daan",
+      "mode": "non_dp",
+      "epsilon": null,
+      "seed": 2
+    },
+    {
+      "id": "daan/clip_only/seed_0",
+      "model": "daan",
+      "mode": "clip_only",
+      "epsilon": null,
+      "seed": 0
+    },
+    {
+      "id": "daan/clip_only/seed_1",
+      "model": "daan",
+      "mode": "clip_only",
+      "epsilon": null,
+      "seed": 1
+    },
+    {
+      "id": "daan/clip_only/seed_2",
+      "model": "daan",
+      "mode": "clip_only",
+      "epsilon": null,
+      "seed": 2
+    },
+    {
+      "id": "daan/dp_eps_1/seed_0",
+      "model": "daan",
+      "mode": "dp",
+      "epsilon": 1.0,
+      "seed": 0
+    },
+    {
+      "id": "daan/dp_eps_1/seed_1",
+      "model": "daan",
+      "mode": "dp",
+      "epsilon": 1.0,
+      "seed": 1
+    },
+    {
+      "id": "daan/dp_eps_1/seed_2",
+      "model": "daan",
+      "mode": "dp",
+      "epsilon": 1.0,
+      "seed": 2
+    }
+  ]
+}

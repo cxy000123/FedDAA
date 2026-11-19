@@ -1,0 +1,6 @@
+{
+  "client_0_households.parquet": "2d3694ffbcedc71ccf9091f40e7a93666ca645e09abcc8de3433ed8d10db129c",
+  "client_1_households.parquet": "320351f76696ea5383d47b09795581b9ec28c080154a036c88177b55caa28326",
+  "client_2_households.parquet": "6aa7ad4d39a4577183a4463d9893dc28086fb4fcabfb98c98fdae5f8fe6e69f2",
+  "scalers.json": "a7bf21f59e485bf07ff150c5b661b7d8f5e64058f374a3fd894889a7f482593d"
+}
